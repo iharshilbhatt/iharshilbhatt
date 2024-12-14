@@ -62,7 +62,7 @@ Predict investor risk tolerance on a scale of 1-10. How? Using data that actuall
 
 📍 **Location**: Rajkot, India  
 🔗 **LinkedIn**: [iharshilbhatt21](https://linkedin.com/in/iharshilbhatt21)  
-📧 **Email**: [iharshilbhatt@gmail.com](mailto:iharshilbhatt@gmail.com)
+
 
 ---
 
