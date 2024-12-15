@@ -23,10 +23,11 @@ Welcome to my domain. I'm **Harshil Bhatt**, a tech trailblazer, software engine
 - **Frameworks & Tools:** MERN Stack, WordPress, Tailwind CSS
 - **Technologies:** Cloud Computing, DBMS, AI, Project Management
 
-🌱 **What’s Next?**
+🌱 **What’s Next?**  
 
-- Scaling machine learning models that matter.
-- Mastering the MERN Stack like it’s second nature.
+- Taking machine learning models to impactful scales.  
+- Achieving effortless mastery of the MERN Stack.  
+- Leveraging **cloud computing** to drive efficiency, scalability, and future-ready solutions.
 
 😄 **Here’s a Twist**: When I’m not conquering tech, I’m winning cricket matches or analyzing football strategies.
 
